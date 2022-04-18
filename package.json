@@ -1,0 +1,16 @@
+{
+  "name": "aws-role",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "assume": "node ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alex Parra <alexpds@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ini": "3.0.0"
+  }
+}

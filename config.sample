@@ -1,0 +1,7 @@
+userProfile = USER_PROFILE
+tokenProfile = TOKEN_PROFILE
+roleProfile = ROLE_PROFILE
+tokenSerial = arn:aws:iam::XXXXXXXXXXXX:mfa/YOUR_EMAIL
+roleArn = arn:aws:iam::XXXXXXXXXXXX:role/ROLE_NAME
+roleSessionName = ROLE_SESSION_NAME
+durationSeconds = 3600
